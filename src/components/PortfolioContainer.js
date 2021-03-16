@@ -4,6 +4,7 @@ import Portfolio from '../components/Portfolio';
 import About from '../components/About';
 import Resume from '../components/Resume';
 import Contact from '../components/Contact';
+import "../App.css"
 
 function PersonalPortfolio() {
   const [currentPage, handlePageChange] = useState('Portfolio');

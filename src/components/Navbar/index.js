@@ -24,8 +24,9 @@ function Navbar(props) {
     ))}
 
   </ul>
-     
+  
 );
+
 }
      
      
