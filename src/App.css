@@ -13,12 +13,12 @@ a {
   text-decoration: none;
 }
 
-nav {
+.nav-links {
   display: flex;
   justify-content: space-around;
   min-height: 10vh;
   align-items: center;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: #f283b6ff;
 }
 
@@ -40,21 +40,20 @@ nav .logo:hover {
 }
 
 
-nav .nav-links {
+ /* .nav-links {
   display: flex;
   justify-content: space-around;
   width: 32%;
   font-size: 25px;
-}
-
-nav .nav-links a {
+} */
+.nav-links a {
   font-size: 18px;
   font-weight: normal;
   color: red;
   cursor: pointer;
 }
 
-nav .nav-links a:hover {
+.nav-links a:hover {
   border-bottom: 2px solid darkblue;
 }
 
@@ -74,39 +73,66 @@ nav .nav-links a:hover {
 
 
 @media all and (max-width: 768px) {
-  nav .burger {
-    display: block;
+  
+  }
+
+  h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 40px;
+
+  }
+  #contact-form {
+    justify-content: center;
+    margin: 20px;
+    margin-left: 10em;
+    margin-right: 10em;
+  } 
+  label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  } 
+
+  button {
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 0.25rem 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    outline: none;
     cursor: pointer;
+    margin: 0 1px;
+    background-color: #f283b6ff;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  button[disabled] {
+    cursor: default;
+    opacity: 0.8;
   }
 
-  nav .nav-links {
-    position: absolute;
-    display: block;
-    top: 0;
-    left: 0;
-    height: 100vh;
-    background: lightpink;
-    padding:  50px 20px;
-    
-    width: 30%;
-    transform: translateX(-500px);
-    transition: 0.5 s ease-in-out;
+  input {
+    font-size: 1rem;
+    padding: 0.25rem;
+    border: 1px solid var(--dark);
+    outline: none;
+    border-radius: 3px;
+    transition: box-shadow 0.2s;
+  }
+  
+  input:focus {
+    border: 1px solid var(--secondary);
+    box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.5);
+  }
+  
+  form {
+    width: 40%;
   }
 
-  nav .nav-links li {
-    padding: 20px;
-    border-bottom: 1px solid blue;
+  textarea {
+    width: 600px;
+    height: 120px;
+    border: 3px solid #cccccc;
+    padding: 5px;
   }
-
-  nav .nav-links li :last-of-type {
-    border-bottom: 0px solid blue;
-  }
-
-  nav .nav-links a:hover {
-    border-bottom: 0px solid blue;
-  }
-  nav .logo {
-    padding: 10px;
-    margin-left: 90px;
-  }
-}
