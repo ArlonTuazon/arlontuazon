@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/arlontuazon/static/css/main.c4daec90.chunk.css",
-    "main.js": "/arlontuazon/static/js/main.b97b3beb.chunk.js",
-    "main.js.map": "/arlontuazon/static/js/main.b97b3beb.chunk.js.map",
+    "main.css": "/arlontuazon/static/css/main.a72750d2.chunk.css",
+    "main.js": "/arlontuazon/static/js/main.bc967339.chunk.js",
+    "main.js.map": "/arlontuazon/static/js/main.bc967339.chunk.js.map",
     "runtime-main.js": "/arlontuazon/static/js/runtime-main.1488fe9b.js",
     "runtime-main.js.map": "/arlontuazon/static/js/runtime-main.1488fe9b.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/arlontuazon/static/css/2.4c97ca4f.chunk.css",
@@ -12,8 +12,9 @@
     "static/js/3.789aebe6.chunk.js.map": "/arlontuazon/static/js/3.789aebe6.chunk.js.map",
     "index.html": "/arlontuazon/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/arlontuazon/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.c4daec90.chunk.css.map": "/arlontuazon/static/css/main.c4daec90.chunk.css.map",
+    "static/css/main.a72750d2.chunk.css.map": "/arlontuazon/static/css/main.a72750d2.chunk.css.map",
     "static/js/2.1eef4ec5.chunk.js.LICENSE.txt": "/arlontuazon/static/js/2.1eef4ec5.chunk.js.LICENSE.txt",
+    "static/media/ResumeArlon.a0754a29.pdf": "/arlontuazon/static/media/ResumeArlon.a0754a29.pdf",
     "static/media/arlon_pic.52ad5f5b.png": "/arlontuazon/static/media/arlon_pic.52ad5f5b.png",
     "static/media/App.css": "/arlontuazon/static/media/background2.0423fb26.jpg"
   },
@@ -21,7 +22,7 @@
     "static/js/runtime-main.1488fe9b.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.1eef4ec5.chunk.js",
-    "static/css/main.c4daec90.chunk.css",
-    "static/js/main.b97b3beb.chunk.js"
+    "static/css/main.a72750d2.chunk.css",
+    "static/js/main.bc967339.chunk.js"
   ]
 }
