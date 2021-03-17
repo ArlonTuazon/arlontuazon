@@ -1,6 +1,19 @@
-# Getting Started with Create React App
-
+# Portfolio using React development
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenchot of Application
+
+##### ![](portfolioscreenshot.png)
+
+## Table of Contents
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Available Scripts](#available-scripts)
+  - [`npm start`](#npm-start)
+  - [`npm test`](#npm-test)
+  - [`npm run build`](#npm-run-build)
+  - [`npm run eject`](#npm-run-eject)
+- [Testing](#testing)
 
 ## Available Scripts
 
