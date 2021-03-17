@@ -1,9 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 
 
 function Navbar(props) {
-  const [open, setOpen] = useState(false);
-  const links = ['Arlon Tuazon', 'About', 'Contact', 'Portfolio', 'Resume'];
+  
+  const links = [ 'About', 'Contact', 'Portfolio', 'Resume'];
   
   return (
     

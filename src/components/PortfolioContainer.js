@@ -12,8 +12,7 @@ function PersonalPortfolio() {
   const renderPage = () => {
     // Add a switch statement that will return the appropriate component of the 'currentPage'
     switch (currentPage) {
-      case 'Arlon Tuazon':
-          return <About />;
+      
       case 'About':
         return <About />;
       case 'Portfolio':
