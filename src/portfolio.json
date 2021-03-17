@@ -1,0 +1,67 @@
+[
+    {
+    "id": 1,
+    "name": "my_tech_blog",
+    "image": "https://raw.githubusercontent.com/ArlonTuazon/arlontuazon/master/src/assets/images/tech_blog.png",
+    "github": "https://github.com/ArlonTuazon/just-tech-news",
+    "deploy": "https://arlon-tech-blog.herokuapp.com/",
+    "topics": "node-js, nodemon, express-js, sequelize, mysql, dotenv, bcrypt, handlebars.js"
+    },
+    {
+    "id": 2,
+    "name": "note taker",
+    "image": "https://raw.githubusercontent.com/ArlonTuazon/arlontuazon/master/src/assets/images/note_taker.png",
+    "github": "https://github.com/ArlonTuazon/note_taker",
+    "deploy": "https://hidden-falls-22101.herokuapp.com/",
+    "topics": "express, nodemon, uniqid"
+    },
+    {
+    "id": 3,
+    "name": "budget tracker",
+    "image": "https://raw.githubusercontent.com/ArlonTuazon/arlontuazon/master/src/assets/images/budgettrackerimage.png",
+    "github": "https://github.com/ArlonTuazon/budget-tracker",
+    "deploy": "https://arlon-budget-tracker.herokuapp.com/",
+    "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    },
+    {
+    "id": 4,
+    "name": "weather dashboard",
+    "image": "https://raw.githubusercontent.com/ArlonTuazon/arlontuazon/master/src/assets/images/weather_dash.png",
+    "github": "https://github.com/ArlonTuazon/weather_dashboard",
+    "deploy": "https://arlontuazon.github.io/weather_dashboard/",
+    "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    },
+    {
+    "id": 5,
+    "name": "ZapDrive",
+    "image": "https://raw.githubusercontent.com/ArlonTuazon/arlontuazon/master/src/assets/images/Zapdrive.png",
+    "github": "https://github.com/ArlonTuazon/ZapDrive",
+    "deploy": "https://arlontuazon.github.io/ZapDrive/ ",
+    "topics": "HTML, CSS, API"
+      },
+    {
+    "id": 6,
+    "name": "weekly schedular",
+    "image": "https://raw.githubusercontent.com/ArlonTuazon/arlontuazon/master/src/assets/images/weeklyscheduler.png",
+    "github": "https://github.com/ArlonTuazon/weeklyScheduler",
+    "deploy": "https://arlontuazon.github.io/weeklyScheduler",
+    "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
+    },
+    {
+    "id": 7,
+    "name": "meural-group project",
+    "image": "https://raw.githubusercontent.com/ArlonTuazon/arlontuazon/master/src/assets/images/meuralpic.png",
+    "github": "https://github.com/stepheff1994/second-group-project",
+    "deploy": "https://meural.herokuapp.com//",
+    "topics": "node-js, nodemon, express-js, handlebars-js, mysql, sequelize, dotenv, bcrypt,canvas"
+    },
+    {
+    "id": 8,
+    "name": "pizza-hunt",
+    "image": "https://raw.githubusercontent.com/ArlonTuazon/arlontuazon/master/src/assets/images/pizza-hunt.png",
+    "github": "https://github.com/ArlonTuazon/pizza-hunt",
+    "deploy": "https://arlon-pizza-hunt.herokuapp.com/",
+    "topics": "express, mongoose"
+    }
+    
+]
