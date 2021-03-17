@@ -2,6 +2,8 @@
   /* margin: auto; */
   padding: 0;
   box-sizing: border-box;
+  
+
 }
 
 html {
@@ -92,6 +94,7 @@ nav .logo:hover {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background-image: url(./assets/images/background2.jpg)
 }
 .content-wrap {
   flex: 1;
