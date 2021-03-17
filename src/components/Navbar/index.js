@@ -3,7 +3,7 @@ import React from "react";
 
 function Navbar(props) {
   
-  const links = [ 'About', 'Contact', 'Portfolio', 'Resume'];
+  const links = [ 'About Me', 'Contact', 'Portfolio', 'Resume'];
   
   return (
     

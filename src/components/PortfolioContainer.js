@@ -13,7 +13,7 @@ function PersonalPortfolio() {
     // Add a switch statement that will return the appropriate component of the 'currentPage'
     switch (currentPage) {
       
-      case 'About':
+      case 'About Me':
         return <About />;
       case 'Portfolio':
         return <Portfolio />;
