@@ -62,6 +62,14 @@
     "github": "https://github.com/ArlonTuazon/pizza-hunt",
     "deploy": "https://arlon-pizza-hunt.herokuapp.com/",
     "topics": "express, mongoose"
+    },
+    {
+    "id": 8,
+    "name": "LA-LOCALS",
+    "image": "https://raw.githubusercontent.com/ArlonTuazon/arlontuazon/master/src/assets/images/la-locals.png",
+    "github": "https://github.com/stepheff1994/la-locals-project",
+    "deploy": "https://la-locals.herokuapp.com/",
+    "topics": "express, mongoose, react, heroku, material-ui, bcrypt, stripe"
     }
     
 ]
